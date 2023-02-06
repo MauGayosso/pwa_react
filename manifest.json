@@ -1,0 +1,15 @@
+{
+    "name" : "Dev'Coffe",
+    "id" : "com.DevCoffe",
+    "short_name" : "DevCoffe",
+    "start_url" : "https://maugayosso.github.io/pwa_react/",
+    "display" : "standalone",
+    "background_color" : "#fdfdfd",
+    "theme_color" : "#db4938",
+    "orientation": "any",
+    "icons" : [{
+        "src" : "/pwa_react/images/7564847.png",
+        "sizes" : "192x192"
+    }
+]
+}
